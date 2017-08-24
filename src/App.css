@@ -1,0 +1,75 @@
+.timeline{
+  display: inline-block;
+  background-color: whitesmoke;
+  width:500px;
+  height:15px;
+  border-radius: 13px;
+  border: 1px solid black;
+  margin-left:5px;
+  margin-right:5px;
+
+}
+.Player-buttons{
+
+  display: inline-block;
+  width:20px;
+  text-align:center;
+  border: 1px solid grey;
+  margin-right: 2px;
+  border-radius: 4px;
+  color: white;
+
+}
+.Player-timeline{
+  display:inline-block;
+
+}
+.Player{
+
+  padding:10px 10px;
+  height:25px;
+  background-color: #4f4d65;
+  border-radius: 5px;
+}
+.Form-search{
+  display: inline-block;
+}
+input{
+  width: 573.5px;
+  height:40px;
+}
+.Form-addmusic{
+  display: inline-block;
+  vertical-align: top;
+  width: 80px;
+  height:44px;
+  border:1px solid lightgrey;
+  text-align: center;
+
+}
+span{
+  color:white;
+}
+.Music-Player{
+  width: 660px;
+  /* overflow: auto; */
+  height: 412px;
+  /* padding: 40px; */
+  border: 1px solid black;
+  border-radius: 5px;
+}
+ol{
+
+  height:316px;
+  overflow: auto;
+  margin:0px;
+  background-color: #33393d;
+  color: white;
+  padding-top:5px;
+
+
+}
+#MusicPlayer{
+  height: 44px;
+  width:630px;
+}
